@@ -196,6 +196,7 @@ h3 {
 p {
   font-size: var(--regular-fs);
   line-height: var(--text-lh);
+  font-weight: 300;
 }
 
 ul {
